@@ -332,3 +332,7 @@ footer {
     content: '';
     background: #fafafa;
 }
+
+.history-item {
+    margin-bottom: 30px;
+}
