@@ -357,7 +357,13 @@ footer {
     margin-bottom: 30px;
 }
 
-/* ----------------------------------------------Contact Form */
+/* ----------------------------------------------- Maps */
+
+#map {
+    min-height: 360px;
+}
+
+/* ---------------------------------------------- Contact Form */
 
 .contact-heading {
     font-family: "Exo", sans-serif;
